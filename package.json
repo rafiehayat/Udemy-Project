@@ -21,7 +21,7 @@
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
-    "express-validator": "^6.14.0",
+    "express-validator": "^7.0.1",
     "file-saver": "^2.0.5",
     "helmet": "^6.1.5",
     "mongodb": "^4.3.1",
